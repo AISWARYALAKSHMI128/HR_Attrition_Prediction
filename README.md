@@ -1,4 +1,4 @@
-# HR Attrition Prediction
+# HR Attrition Analysis and Modelling
 
 This project aims to analyze and predict employee attrition within an organization. By leveraging a variety of features related to employee demographics, job roles, and work conditions, the goal is to identify factors contributing to employee turnover and build a predictive model to forecast attrition.
 
